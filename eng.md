@@ -30,8 +30,8 @@ Instead of demanding the browser render frames it will ultimately have to drop,
 you allow it to spit out frames whenever it’s ready, and above all consistently.
 The benefit is two-fold:
 
-* The animation looks smoother since it uses a consistent frame rate. * Rather
-than being overloaded with rendering tasks, the processor is able to handle
+* The animation looks smoother since it uses a consistent frame rate.
+* Rather than being overloaded with rendering tasks, the processor is able to handle
 other tasks while also rendering the animation. In fact, it is able to determine
 a frame rate that works with the other tasks it is handling.
 
