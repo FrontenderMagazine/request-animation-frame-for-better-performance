@@ -1,7 +1,7 @@
 Request Animation Frame for Better Performance
 ==============================================
 
-![cover][Cover Image]
+![Cover Image][cover]
 
 Traditionally, JavaScript animation can be handled a number of ways. One
 approach involves using a timing function such as setTimeout or setInterval to
